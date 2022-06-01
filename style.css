@@ -167,12 +167,12 @@
 
 /* Edit Task */
 .task-todo__input_text {
-  display: none;
+  display: none
 }
 
 .task-todo__list-item_edit_mode .task-todo__input_text {
   display: inline-block;
-  width: 224px;
+  width: 224px
 }
 
 .task-todo__list-item_edit_mode .task-todo__label {

@@ -170,11 +170,13 @@
   display: none;
 }
 
-.task-todo__list-item_edit_mode .task-todo__input_text {
+.task-todo__list-item_edit_mode
+.task-todo__input_text {
   display: inline-block;
   width: 224px;
 }
 
-.task-todo__list-item_edit_mode .task-todo__label {
+.task-todo__list-item_edit_mode
+.task-todo__label {
   display: none;
 }

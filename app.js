@@ -88,7 +88,7 @@ var editTask=function(){
     var editInput=listItem.querySelector('.task-todo__input_text');
     var label=listItem.querySelector(".task-todo__label");
     var editBtn=listItem.querySelector(".task-todo__edit-button");
-    var containsClass=listItem.classList.contains(".task-todo__list-item_edit_mode");
+    var containsClass=listItem.classList.contains("task-todo__list-item_edit_mode");
     //If class of the parent is .editmode
     if(containsClass){
 
